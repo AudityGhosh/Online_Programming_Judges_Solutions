@@ -16,3 +16,4 @@ def arrays(my_array):
 arr = input().strip().split(' ')
 result = arrays(arr)
 print(result)
+#Audity Ghosh
